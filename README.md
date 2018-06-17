@@ -1,6 +1,6 @@
 # SAWI
 
-SAWI - Selenium Automation Web Interface
+SAWI - Selenium Automation Web Interface Framwework
 
 SAWI é um framework para automação desenvolvido em Java e Selenium WebDriver. Sua estrutura consiste em um esqueleto de diretórios e códigos que pode ser utilizado por qualquer programador como base ou projeto final, para acelelar a montagem do projeto de automação e também fornecer os códigos básicos para tarefas comuns a todos os projetos de automação, como relatórios, mapeamento de objetos, pool de dados, leitura de arquivos, dentre outros.
 
